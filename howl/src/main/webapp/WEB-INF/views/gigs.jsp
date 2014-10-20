@@ -10,7 +10,7 @@
 	<div class="container">
 		<jsp:include page="header.jsp" />
 		<div class="content">
-			<p>Wembley Stadium 2018</p>
+			<p>Wembley Stadium 2017</p>
 		</div>
 		<jsp:include page="footer.jsp" />
 	</div>
