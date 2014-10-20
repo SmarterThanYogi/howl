@@ -1,0 +1,105 @@
+body {
+	background: ##171616;
+	background-image: url("bg1.png"), url("bg2.png");
+	background-repeat: repeat-x, repeat;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.container {
+	background-color: #080808;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.header {
+	background-color: #151515;
+	color: white;
+	padding-bottom: 10px;
+}
+
+.logo{
+	width: 600px;
+	margin: 0 auto;
+}
+
+.menu {
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+	background-Color: #121212;
+	padding: 4px 8px;
+	width: -moz-fit-content;
+	border-radius: 14px;
+	box-shadow: 0px 2px 2px rgba(0,0,0,.4) inset, 0px 2px 0 rgba(255,255,255,.2);
+}
+
+.menu li {
+	background-Color: #CE0000;
+	display: inline;
+	padding: 10px;
+	box-shadow: 2px 2px 0px rgba(0,0,0,.4), 1px 2px 0 rgba(0,0,0,.2);
+}
+
+.menu a {
+	padding: 15px;
+	display: inline-block;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.menu :first-child{
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+.menu :last-child{
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.clear {
+	clear: both;
+}
+
+.content {
+	color: #FFFFFF;
+}
+
+.left {
+	float:left;
+	width: 80%;
+	height: 600px;
+}
+
+.leftImage {
+	height: 100%;
+	background: url("temp.jpg")no-repeat;
+	background-size: cover;
+  background-position: center;
+}
+
+.right {
+	float:right;
+	text-align: left;
+	border: 1px solid;
+	border-color: #2c2c2c;
+	padding: 20px;
+	width: 17%;
+	height: 558px;
+}
+
+.footer {
+	text-align:-moz-center;
+	background-color: #000000;
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 5px 0;
+}
