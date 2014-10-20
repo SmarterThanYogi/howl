@@ -18,9 +18,9 @@
 				<h2>Latest</h2>
 				<p> ----------------------<p>
 				<ul>
-					<li>Acticle One</li>
-					<li>Acticle Two</li>
-					<li>Acticle Three</li>
+					<li>Acticle - One</li>
+					<li>Acticle - Two</li>
+					<li>Acticle - Three</li>
 				</ul>
 			</div>
 		</div>
